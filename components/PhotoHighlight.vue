@@ -25,6 +25,7 @@
 
 <style lang="sass" scoped>
     #photo-hightlight
+        padding: 50px 0
         .photo-group
             img
                 height: 220px

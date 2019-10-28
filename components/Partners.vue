@@ -39,5 +39,4 @@
     #partners
         .partners-group
             padding: 70px 0
-            border-bottom: 1px solid #dedede
 </style>

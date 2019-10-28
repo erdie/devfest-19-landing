@@ -8,6 +8,7 @@
 
 <style lang="sass" scoped>
     footer
+        background-color: #f8f9fa
         padding: 30px 0
         span
             color: red
