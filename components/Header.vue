@@ -1,6 +1,6 @@
 <template>
     <div id="navbar">
-        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top pl-5 pr-5">
             <a class="navbar-brand" href="#">
                 <img src="../assets/img/gdg-jogjakarta-logo.svg" alt="" class="w-100">
             </a>

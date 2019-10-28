@@ -30,5 +30,5 @@
 <style lang="sass" scoped>
     #about
         .about-group
-            padding: 50px 0
+            padding: 100px 0 50px 0
 </style>
