@@ -1,18 +1,13 @@
 <template>
   <div>
-    <Header/>
-    <Hero/>
-    <About/>
-    <VideoTeaser/>
-    <PhotoHighlight/>
-    <!-- <nuxt/> -->
-    <Partners/>
+    <Navbar/>
+    <nuxt/>
     <my-footer/>
   </div>
 </template>
 
 <script>
-import Header from '~/components/Header.vue'
+import Navbar from '~/components/Navbar.vue'
 import Hero from '~/components/Hero.vue'
 import About from '~/components/About.vue'
 import PhotoHighlight from '~/components/PhotoHighlight.vue'
@@ -22,7 +17,7 @@ import MyFooter from '~/components/Footer.vue'
 
 export default {
   components: {
-    Header,
+    Navbar,
     Hero,
     About,
     PhotoHighlight,
