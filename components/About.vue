@@ -7,13 +7,13 @@
                         <h3>What is GDG?</h3>
                         <p>Google Developer Group Jogjakarta (GDG Jogjakarta) is an open group of people who are interested in having open discussion about Google technologies. There are many froms of activities like watching videos together, open discussion, or gatherings.</p>
                         <p>About different Google technologies</p>
-                        <ul>
-                            <li>Android</li>
-                            <li>Kotlin</li>
-                            <li>Flutter</li>
-                            <li>Google Cloud</li>
-                            <li>Firebase</li>
-                            <li>Angular</li>
+                        <ul class="products">
+                            <li><img src="../assets/img/products/android.svg" alt=""></li>
+                            <li><img src="../assets/img/products/kotlin.svg" alt=""></li>
+                            <li><img src="../assets/img/products/flutter.svg" alt=""></li>
+                            <li><img src="../assets/img/products/google-cloud.svg" alt=""></li>
+                            <li><img src="../assets/img/products/firebase.svg" alt=""></li>
+                            <li><img src="../assets/img/products/angular.svg" alt=""></li>
                         </ul>
                     </div>
                     <div class="col-12 col-md-6">
@@ -31,4 +31,14 @@
     #about
         .about-group
             padding: 100px 0 50px 0
+            .products
+                list-style: none
+                padding: 0
+                li
+                    display: inline-block
+                    margin: 0 10px
+                    img
+                        height: 40px
+                li:first-child
+                    margin-left: 0
 </style>
