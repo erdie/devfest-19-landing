@@ -1,7 +1,7 @@
 <template>
     <section id="schedule">
         <div class="container">
-            Ini halaman schedule
+            We will update soon!
         </div>
     </section>
 </template>

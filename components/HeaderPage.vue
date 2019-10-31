@@ -16,6 +16,7 @@
         background-repeat: no-repeat
         height: 410px
         margin-top: 60px
+        border-bottom: 1px solid #dedede
         .header-page-group
             height: 410px
             h1

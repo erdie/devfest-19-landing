@@ -2,8 +2,10 @@
   <div>
     <Hero/>
     <About/>
-    <VideoTeaser/>
     <PhotoHighlight/>
+    <!-- <VideoTeaser/> -->
+    <CallToAction/>
+    <Maps/>
     <Partners/>
   </div>
 </template>
@@ -14,6 +16,8 @@ import About from '~/components/About.vue'
 import PhotoHighlight from '~/components/PhotoHighlight.vue'
 import VideoTeaser from '~/components/VideoTeaser.vue'
 import Partners from '~/components/Partners.vue'
+import CallToAction from '~/components/CallToAction.vue'
+import Maps from '~/components/Maps.vue'
 import MyFooter from '~/components/Footer.vue'
 
 export default {
@@ -23,6 +27,8 @@ export default {
     PhotoHighlight,
     VideoTeaser,
     Partners,
+    CallToAction,
+    Maps,
     MyFooter
   }
 }
