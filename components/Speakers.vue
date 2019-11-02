@@ -16,33 +16,33 @@
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/erdi.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/wahidyan.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Anna Erdiawan</h5>
-                            <p>Co-organizer GDG Jogjakarta</p>
+                            <h5>Wahidyan Kresna Fridayoka</h5>
+                            <p>Senior Front End Engineer <br> at Ruangguru</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/erdi.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/anbita.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Anna Erdiawan</h5>
-                            <p>Co-organizer GDG Jogjakarta</p>
+                            <h5>Anbita Nadine Siregar</h5>
+                            <p>Founder <br> of Generation Girl</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/erdi.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/heri.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Anna Erdiawan</h5>
-                            <p>Co-organizer GDG Jogjakarta</p>
+                            <h5>Heri Sulistiyanto</h5>
+                            <p>Senior Android Developer <br> at Ruangguru</p>
                         </div>
                     </div>
                 </div>
