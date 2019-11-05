@@ -31,7 +31,7 @@
                     -->
                 </ul>
                 <div>
-                    <a href="http://bit.ly/jog-devfest-19" target="_blank">
+                    <a href="#call-to-action">
                         <button class="btn btn-primary">Register Now!</button>
                     </a>
                 </div>

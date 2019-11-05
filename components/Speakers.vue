@@ -2,7 +2,7 @@
     <section id="speaker">
         <div class="container">
             <div class="row">
-                <div class="col-6 col-lg-3">
+                <div class="col-6 col-lg-3 mt-2">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/aiya.jpg" alt="" class="w-100">
@@ -13,7 +13,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3">
+                <div class="col-6 col-lg-3 mt-2">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/wahidyan.jpeg" alt="" class="w-100">
@@ -24,7 +24,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3">
+                <div class="col-6 col-lg-3 mt-2">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/anbita.jpeg" alt="" class="w-100">
@@ -35,7 +35,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3">
+                <div class="col-6 col-lg-3 mt-2">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/heri.jpeg" alt="" class="w-100">
@@ -43,6 +43,28 @@
                         <div class="card-title">
                             <h5>Heri Sulistiyanto</h5>
                             <p>Senior Android Developer <br> at Ruangguru</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 mt-2">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/randy.jpg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Randy Arba Pahlevi</h5>
+                            <p>Android Developer <br> at A Job Things</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 mt-2">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/bekti.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Bekti Andhana</h5>
+                            <p>Co-Founder & CTO <br> at Neurabot</p>
                         </div>
                     </div>
                 </div>

@@ -12,8 +12,9 @@
                     <h3>Partners</h3>
                     <h6>Community Partners</h6>
                      <div class="d-flex mb-4 mt-3 align-items-center">
-                        <img src="../assets/img/partners/jogjajs-logo.svg" class="jogjajs">
                         <img src="../assets/img/partners/innovative-academy.png" class="ia">
+                        <img src="../assets/img/partners/jogjajs-logo.svg" class="jogjajs">
+                        <img src="../assets/img/partners/yac.png" class="yac">
                     </div>
                 </div>
                 <div class="media-partner">
@@ -35,12 +36,17 @@
             img
                 height: 90px
         .community-partner
+            margin-top: 50px
             .jogjajs
                 height: 40px
                 margin-right: 40px
+            .ia
+                margin-right: 40px
+            .yac
+                height: 70px
             img
                 height: 50px
         .media-partner
             img
-                height: 50px
+                height: 60px
 </style>

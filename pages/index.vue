@@ -36,3 +36,8 @@ export default {
   }
 }
 </script>
+
+<style lang="sass">
+  body, html
+    scroll-behavior: smooth
+</style>
