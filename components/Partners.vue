@@ -13,7 +13,6 @@
                     <h3>Media Partner</h3>
                     <div class="d-flex d-flex mb-4 mt-3 align-items-center">
                         <img src="../assets/img/partners/teknoevent.png"  class="teknoevent">
-                        <img src="../assets/img/partners/teknoevent.png" class="teknoevent">
                     </div>
                 </div>
              </div>
@@ -28,7 +27,7 @@
         .community-partner
             .jogjajs
                 height: 40px
-                margin-right: 20px
+                margin-right: 40px
             img
                 height: 50px
         .media-partner

@@ -2,6 +2,7 @@
   <div>
     <Hero/>
     <About/>
+    <Speaker/>
     <PhotoHighlight/>
     <!-- <VideoTeaser/> -->
     <CallToAction/>
@@ -13,6 +14,7 @@
 <script>
 import Hero from '~/components/Hero.vue'
 import About from '~/components/About.vue'
+import Speaker from '~/components/Speaker.vue'
 import PhotoHighlight from '~/components/PhotoHighlight.vue'
 import VideoTeaser from '~/components/VideoTeaser.vue'
 import Partners from '~/components/Partners.vue'
@@ -24,6 +26,7 @@ export default {
   components: {
     Hero,
     About,
+    Speaker,
     PhotoHighlight,
     VideoTeaser,
     Partners,

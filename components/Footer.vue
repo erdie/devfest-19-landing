@@ -8,7 +8,7 @@
                 <div>
                     <img src="../assets/img/gdg-logo-dark.svg" alt="">
                 </div>
-                <p>&#9400; GDG Jogjakarta. Made with <span>&#x2665;</span> in Yogyakata</p>
+                <p>&#9400; GDG Jogjakarta. Made with <span>&#x2665;</span> in Yogyakarta</p>
             </div>
         </div>
     </footer>
