@@ -2,7 +2,7 @@
     <section id="speaker">
         <div class="container">
             <div class="row">
-                <div class="col-6 col-lg-3 mt-2">
+                <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/aiya.jpg" alt="" class="w-100">
@@ -13,18 +13,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3 mt-2">
+                <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/wahidyan.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/raka.png" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Wahidyan Kresna Fridayoka</h5>
-                            <p>Senior Front End Engineer <br> at Ruangguru</p>
+                            <h5>Raka Adhi Nugroho</h5>
+                            <p>Senior Software Engineer <br> at Tokopedia</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3 mt-2">
+                <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/anbita.jpeg" alt="" class="w-100">
@@ -35,7 +35,29 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3 mt-2">
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/wahidyan.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Wahidyan Kresna Fridayoka</h5>
+                            <p>Senior Front End Engineer <br> at Ruangguru</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/adi.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Achmad Afriadi Alamsyah</h5>
+                            <p>VP of Engineering <br> at Sorabel by Sale Stock</p> 
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/heri.jpeg" alt="" class="w-100">
@@ -46,7 +68,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3 mt-2">
+                <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/randy.jpg" alt="" class="w-100">
@@ -57,7 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3 mt-2">
+                <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
                             <img src="../assets/img/speakers/bekti.jpeg" alt="" class="w-100">
@@ -82,6 +104,7 @@
             padding: 20px
             transition: 0.3s
             text-align: center
+            margin: 15px 0
             .card-image
                 img
                     max-width: 150px

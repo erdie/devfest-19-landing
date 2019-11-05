@@ -11,10 +11,10 @@
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/wahidyan.jpeg" alt="">
+                    <img src="../assets/img/speakers/raka.png" alt="">
                     <div>
-                        <h5>Wahidyan Kresna Fridayoka</h5>
-                        <p>Senior Front End Engineer <br> at Ruangguru</p>
+                        <h5>Raka Adi Nugroho</h5>
+                        <p>Senior Software Engineer <br> at Tokopedia</p>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 text-center">
@@ -25,10 +25,10 @@
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/heri.jpeg" alt="">
+                    <img src="../assets/img/speakers/adi.jpeg" alt="">
                     <div>
-                        <h5>Heri Sulistiyanto</h5>
-                        <p>Senior Android Developer <br> at Ruangguru</p>
+                        <h5>Achmad Afriadi Alamsyah</h5>
+                        <p>VP of Engineering <br> at Sorabel by Sale Stock</p>
                     </div>
                 </div>
             </div>
