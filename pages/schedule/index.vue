@@ -1,6 +1,12 @@
 <template>
     <div>
-        <HeaderPage/>
+        <header id="header-page">
+        <div class="container">
+                <div class="header-page-group d-flex justify-content-center align-items-center">
+                    <h1>Schedule</h1>
+                </div>
+            </div>
+        </header>
         <Schedule/>
     </div>
 </template>

@@ -3,9 +3,9 @@
     <Hero/>
     <About/>
     <Speaker/>
-    <PhotoHighlight/>
     <!-- <VideoTeaser/> -->
     <CallToAction/>
+    <PhotoHighlight/>
     <Maps/>
     <Partners/>
   </div>
