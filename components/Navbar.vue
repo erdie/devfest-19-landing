@@ -10,9 +10,6 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto ml-3">
-                    <li class="nav-item active" v-bind:class="{ active: isActive }" v-on:click="isActive = !isActive">
-                        <div class="nav-link"><nuxt-link to="/">Home</nuxt-link> <span class="sr-only">(current)</span></div>
-                    </li>
                     <li class="nav-item" v-bind:class="{ active: isActive }" v-on:click="isActive = !isActive">
                         <div class="nav-link"><nuxt-link to="/speakers">Speakers</nuxt-link></div>
                     </li>
