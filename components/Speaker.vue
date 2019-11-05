@@ -32,8 +32,8 @@
                     </div>
                 </div>
             </div>
-            <div>
-                <a href="/speakers">View All Speakers >></a>
+            <div class="more-speaker">
+                <a href="/speakers">View All Speakers <i class="icon-arrow-right"></i></a>
             </div>
         </div>
     </section>
@@ -47,4 +47,14 @@
             width: 100%
             border-radius: 50%
             margin: 15px 0
+        .more-speaker
+            a
+                color: #007bff
+                text-decoration: none
+                .icon-arrow-right:before
+                    transition: 0.3s
+            a:hover
+                .icon-arrow-right:before
+                    transform: translateX(10px)
+                    transition: 0.3s
 </style>
