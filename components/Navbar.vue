@@ -1,16 +1,16 @@
 <template>
     <div id="navbar">
         <nav class="navbar navbar-expand-lg navbar-light fixed-top pl-5 pr-5">
-            <a class="navbar-brand" href="#">
-                <nuxt-link to="/"></nuxt-link>
-            </a>
+            <div class="navbar-brand" href="#">
+                <nuxt-link to="/"><img src="../assets/img/gdg-jogjakarta-logo.svg" alt="" class="w-100"></nuxt-link>
+            </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto ml-3">
-                    <li class="nav-item" v-bind:class="{ active: isActive }" v-on:click="isActive = !isActive">
+                    <li class="nav-item">
                         <div class="nav-link"><nuxt-link to="/speakers">Speakers</nuxt-link></div>
                     </li>
                     <li class="nav-item">
