@@ -2,7 +2,7 @@
     <div id="navbar">
         <nav class="navbar navbar-expand-lg navbar-light fixed-top pl-5 pr-5">
             <a class="navbar-brand" href="#">
-                <nuxt-link to="/"><img src="../assets/img/gdg-jogjakarta-logo.svg" alt="" class="w-100"></nuxt-link>
+                <nuxt-link to="/"></nuxt-link>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
