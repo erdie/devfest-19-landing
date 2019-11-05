@@ -3,7 +3,9 @@
         <div class="container">
             <div class="text-center">
                 <p>Register now, seats are limited!</p>
-                <button class="btn btn-primary btn-lg">Register</button>
+                <a href="http://bit.ly/jog-devfest-19" target="_blank">
+                    <button class="btn btn-primary btn-lg">Register</button>
+                </a>
             </div>
         </div>
     </section>
