@@ -8,16 +8,19 @@
             </div>
         </header>
         <Schedule/>
+        <Divider/>
     </div>
 </template>
 
 <script>
 import HeaderPage from '~/components/HeaderPage.vue'
 import Schedule from '~/components/Schedule.vue'
+import Divider from '~/components/FooterDivider.vue'
 
 export default {
     components: {
         HeaderPage,
+        Divider,
         Schedule
     }
 }

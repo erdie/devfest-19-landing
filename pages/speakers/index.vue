@@ -8,16 +8,19 @@
             </div>
         </header>
         <Speakers/>
+        <Divider/>
     </div>
 </template>
 
 <script>
 import HeaderPage from '~/components/HeaderPage.vue'
 import Speakers from '~/components/Speakers.vue'
+import Divider from '~/components/FooterDivider.vue'
 
 export default {
     components: {
         HeaderPage,
+        Divider,
         Speakers
     }
 }

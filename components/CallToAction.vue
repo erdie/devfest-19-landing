@@ -13,7 +13,8 @@
 
 <style lang="sass" scoped>
     #call-to-action
-        background-color: #F5F5F5
+        // background-color: #F5F5F5
+        background-color: #e8f0fe
         margin: 50px 0
         padding: 80px 0
         p
