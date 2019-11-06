@@ -25,10 +25,10 @@
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 text-center">
-                    <img src="../assets/img/speakers/adi.jpeg" alt="">
+                    <img src="../assets/img/speakers/dimas.jpeg" alt="">
                     <div>
-                        <h5>Achmad Afriadi Alamsyah</h5>
-                        <p>VP of Engineering <br> at Sorabel by Sale Stock</p>
+                        <h5>Dimas Aryo Prakoso</h5>
+                        <p>Senior DevProd Engineer <br> at Sorabel by Sale Stock</p>
                     </div>
                 </div>
             </div>

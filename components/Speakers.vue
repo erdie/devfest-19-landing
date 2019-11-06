@@ -55,7 +55,7 @@
                         </div>
                         <div class="card-title">
                             <h5>Wahidyan Kresna Fridayoka</h5>
-                            <p>Senior Front End Engineer <br> at Ruangguru</p>
+                            <p>Senior Front End Engineer <br> at RuangGuru</p>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/wahidyan-kresna-fridayoka" target="_blank"><i class="icon-linkedin"></i></a></li>
                                 <li><a href="https://github.com/wahidyankf" target="_blank"><i class="icon-github"></i></a></li>
@@ -69,10 +69,10 @@
                             <img src="../assets/img/speakers/adi.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
-                            <h5>Achmad Afriadi Alamsyah</h5>
-                            <p>VP of Engineering <br> at Sorabel by Sale Stock</p>
+                            <h5>Dimas Aryo Prakoso</h5>
+                            <p>Senior DevProd Engineer <br> at Sorabel by Sale Stock</p>
                             <ul>
-                                <li><a href="https://www.linkedin.com/in/achmad-afriadi-alamsyah-b5335033/" target="_blank"><i class="icon-linkedin"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/dimasaryo" target="_blank"><i class="icon-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                         </div>
                         <div class="card-title">
                             <h5>Heri Sulistiyanto</h5>
-                            <p>Senior Android Developer <br> at Ruangguru</p>
+                            <p>Senior Android Developer <br> at RuangGuru</p>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/heri-sulistiyanto-85257772" target="_blank"><i class="icon-linkedin"></i></a></li>
                                 <li><a href="https://medium.com/@heri.sulis" target="_blank"><i class="icon-medium"></i></a></li>
@@ -99,9 +99,23 @@
                         </div>
                         <div class="card-title">
                             <h5>Randy Arba Pahlevi</h5>
-                            <p>Android Developer <br> at A Job Things</p>
+                            <p>Android Developer <br> at A Job Thing</p>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/leviaran" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/tesya.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Tesya Nurintan</h5>
+                            <p>Women Techmakers Ambassador <br> Jogjakarta</p>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/tesyant/" target="_blank"><i class="icon-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -116,6 +130,62 @@
                             <p>Co-Founder & CTO <br> at Neurabot</p>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/bekti-andhana-68535074" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/amien.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Nashihun Amien</h5>
+                            <p>Site Reliability Engineer <br> at Universitas Islam Indonesia</p>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/nashihunamien/" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/himang.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Himang Sharatun</h5>
+                            <p>Junior Back-End Engineer <br> at RuangGuru</p>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/himang-sharatun-14b566137/" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/wahyuni.jpg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Wahyuni Puji Lestari</h5>
+                            <p>DevOps Engineer <br> at Universitas Islam Indonesia</p>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/wahyuni-puji-lestari/" target="_blank"><i class="icon-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3">
+                    <div class="card">
+                        <div class="card-image">
+                            <img src="../assets/img/speakers/siska.jpeg" alt="" class="w-100">
+                        </div>
+                        <div class="card-title">
+                            <h5>Siska Restu Anggraeny Iskandar</h5>
+                            <p>Engagement Team Member <br> Gnome Foundation</p>
+                            <ul>
+                                <li><a href="https://www.linkedin.com/in/seketika/" target="_blank"><i class="icon-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>

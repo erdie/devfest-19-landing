@@ -3,9 +3,10 @@
         <div class="container">
              <div class="partners-group">
                 <div class="co-presenter">
-                    <h3>Co-Presenter</h3>
+                    <h3>Presented by</h3>
                     <div class="d-flex mb-4 mt-3 align-items-center flex-wrap">
-                        <img src="../assets/img/partners/uii.png" class="Universitas Islam Indonesia">
+                        <img src="../assets/img/gdg-jogjakarta-logo.svg" class="gdg">
+                        <img src="../assets/img/partners/uii.png" class="uii">
                     </div>
                 </div>
                 <div class="community-partner">
@@ -34,6 +35,9 @@
         .partners-group
             padding: 70px 0
         .co-presenter
+            .gdg
+                height: 40px
+                margin-right: 40px
             img
                 height: 90px
         .community-partner
