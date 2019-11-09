@@ -6,6 +6,7 @@
                     <h3>Presented by</h3>
                     <div class="d-flex mb-4 mt-3 align-items-center flex-wrap">
                         <img src="../assets/img/gdg-jogjakarta-logo.svg" class="gdg">
+                        <img src="../assets/img/partners/wtm.svg" class="wtm">
                         <img src="../assets/img/partners/uii.png" class="uii">
                     </div>
                 </div>
@@ -13,9 +14,13 @@
                     <h3>Partners</h3>
                     <h6>Community Partners</h6>
                      <div class="d-flex mb-4 mt-3 align-items-center flex-wrap">
+                         <img src="../assets/img/partners/dsc.svg" class="dsc">
                         <img src="../assets/img/partners/innovative-academy.png" class="ia">
                         <img src="../assets/img/partners/jogjajs-logo.svg" class="jogjajs">
                         <img src="../assets/img/partners/yac.png" class="yac">
+                        <img src="../assets/img/partners/py-id.svg" class="pyid">
+                        <img src="../assets/img/partners/femalegeek.png" class="femalegeek">
+                        <img src="../assets/img/partners/ml-id.svg" class="mlid">
                     </div>
                 </div>
                 <div class="media-partner">
@@ -37,20 +42,24 @@
         .co-presenter
             .gdg
                 height: 40px
-                margin-right: 40px
+            .wtm
+                height: 40px
+            .uii
+                height: 80px
             img
                 height: 90px
+                margin: 10px 40px 0 0
         .community-partner
-            margin-top: 50px
+            margin-top: 5px
+            .dsc
+                height: 40px
             .jogjajs
                 height: 40px
-                margin-right: 40px
-            .ia
-                margin-right: 40px
             .yac
                 height: 70px
             img
                 height: 50px
+                margin: 10px 40px 10px 0
         .media-partner
             .teknoevent
                 margin-right: 40px

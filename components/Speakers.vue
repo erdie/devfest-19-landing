@@ -66,7 +66,7 @@
                 <div class="col-6 col-lg-3">
                     <div class="card">
                         <div class="card-image">
-                            <img src="../assets/img/speakers/adi.jpeg" alt="" class="w-100">
+                            <img src="../assets/img/speakers/dimas.jpeg" alt="" class="w-100">
                         </div>
                         <div class="card-title">
                             <h5>Dimas Aryo Prakoso</h5>
@@ -127,7 +127,7 @@
                         </div>
                         <div class="card-title">
                             <h5>Bekti Andhana</h5>
-                            <p>Co-Founder & CTO <br> at Neurabot</p>
+                            <p>AI Engineer <br> at Neurabot</p>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/bekti-andhana-68535074" target="_blank"><i class="icon-linkedin"></i></a></li>
                             </ul>
@@ -183,7 +183,7 @@
                         </div>
                         <div class="card-title">
                             <h5>Siska Restu Anggraeny Iskandar</h5>
-                            <p>Engagement Team Member <br> Gnome Foundation</p>
+                            <p>Engagement Team Member <br> GNOME Foundation</p>
                             <ul>
                                 <li><a href="https://www.linkedin.com/in/seketika/" target="_blank"><i class="icon-linkedin"></i></a></li>
                             </ul>
