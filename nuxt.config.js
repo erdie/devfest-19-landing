@@ -11,7 +11,7 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/png', href: '/favicon.png' },
-      { rel: 'stylesheet', type: 'text/css', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' }
+      // { rel: 'stylesheet', type: 'text/css', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' }
     ],
     script: [
       { src: 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js' },
