@@ -191,7 +191,6 @@
                     </div>
                 </div>
             </div>
-            <p class="updating">Updating....</p>
         </div>
     </section>
 </template>

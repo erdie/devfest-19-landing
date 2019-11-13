@@ -31,9 +31,9 @@
                     -->
                 </ul>
                 <div>
-                    <a href="#call-to-action">
+                    <nuxt-link to="/#call-to-action">
                         <button class="btn btn-primary">Register Now!</button>
-                    </a>
+                    </nuxt-link>
                 </div>
             </div>
         </nav>
