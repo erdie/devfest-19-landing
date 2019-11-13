@@ -51,6 +51,8 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+    @import "./node_modules/bootstrap/scss/bootstrap"
+    
     #navbar
         .navbar
             background-color: white
