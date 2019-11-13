@@ -81,4 +81,9 @@ export default {
                     bottom: -15px
                     left: 0
                 
+    @include media-breakpoint-down(md)
+        .navbar 
+            padding-left: 15px !important
+            padding-right: 15px !important
+            height: 70px
 </style>

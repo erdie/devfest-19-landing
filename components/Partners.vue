@@ -4,7 +4,7 @@
              <div class="partners-group">
                 <div class="co-presenter">
                     <h3>Presented by</h3>
-                    <div class="d-flex mb-4 mt-3 align-items-center flex-wrap">
+                    <div class="partner-logo d-flex mb-4 mt-3 align-items-center flex-wrap">
                         <img src="../assets/img/gdg-jogjakarta-logo.svg" class="gdg">
                         <img src="../assets/img/partners/wtm.svg" class="wtm">
                         <img src="../assets/img/partners/uii.png" class="uii">
@@ -13,7 +13,7 @@
                 <div class="community-partner">
                     <h3>Partners</h3>
                     <h6>Community Partners</h6>
-                     <div class="d-flex mb-4 mt-3 align-items-center flex-wrap">
+                     <div class="partner-logo d-flex mb-4 mt-3 align-items-center flex-wrap">
                          <img src="../assets/img/partners/dsc.svg" class="dsc">
                         <img src="../assets/img/partners/innovative-academy.png" class="ia">
                         <img src="../assets/img/partners/jogjajs-logo.svg" class="jogjajs">
@@ -25,7 +25,7 @@
                 </div>
                 <div class="media-partner">
                     <h6>Media Partners</h6>
-                    <div class="d-flex d-flex mb-4 mt-3 align-items-center flex-wrap">
+                    <div class="partner-logo d-flex d-flex mb-4 mt-3 align-items-center flex-wrap">
                         <img src="../assets/img/partners/teknoevent.png"  class="teknoevent">
                         <img src="../assets/img/partners/chromplex.png"  class="chromplex">
                     </div>
@@ -36,6 +36,8 @@
 </template>
 
 <style lang="sass" scoped>
+    @import "./node_modules/bootstrap/scss/bootstrap"
+
     #partners
         .partners-group
             padding: 70px 0
@@ -67,4 +69,12 @@
                 height: 45px
             img
                 height: 60px
+
+    @include media-breakpoint-down(md)
+        #partners
+            text-align: center
+            .partner-logo
+                justify-content: center
+                img
+                    margin: 15px 10px
 </style>

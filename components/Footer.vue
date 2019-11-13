@@ -15,6 +15,8 @@
 </template>
 
 <style lang="sass" scoped>
+    @import "./node_modules/bootstrap/scss/bootstrap"
+
     footer
         background-color: #f8f9fa
         padding: 30px 0
@@ -26,5 +28,12 @@
             p
                 font-size: 14px
                 margin: 0
-
+    
+    @include media-breakpoint-down(md)
+        footer
+            .copyright
+                flex-direction: column
+                text-align: center
+                p
+                    margin-top: 15px
 </style>
